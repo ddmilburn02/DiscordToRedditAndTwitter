@@ -1,0 +1,24 @@
+{
+  "name": "dtornt",
+  "version": "1.0.0",
+  "description": "Discord bot for tweeting and posting to reddit all the posts in a certain channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmilburn02/DiscordToRedditAndTwitter.git"
+  },
+  "author": "ddmilburn02",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddmilburn02/DiscordToRedditAndTwitter/issues"
+  },
+  "homepage": "https://github.com/ddmilburn02/DiscordToRedditAndTwitter#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "snoowrap": "^1.20.1",
+    "twitter": "^1.7.1"
+  }
+}
